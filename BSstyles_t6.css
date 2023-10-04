@@ -1,0 +1,23 @@
+.was-validated {
+    display: table;
+    background-color: whitesmoke;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 500px;
+    width: 1000px;
+    margin-top: 30px;
+    margin-left: 250px;
+}
+
+.btn {
+    width: 600px;
+}
+
+#validationDefault05 {
+    width: 600px;
+}
+
+
+
